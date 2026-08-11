@@ -2,7 +2,7 @@
 
 This project was created by someone with essentially zero formal coding knowledge, with heavy assistance from ChatGPT.
 
-I had a problem I wanted fixed, inspected how ChatGPT behaved in the browser, and then worked iteratively with ChatGPT to build, test, debug, and clean up this userscript.
+I had a problem I wanted fixed, inspected together with ChatGPT how it behaved in the browser, and then worked iteratively with ChatGPT to build, test, debug, and clean up this userscript.
 
 So, full disclosure:
 
