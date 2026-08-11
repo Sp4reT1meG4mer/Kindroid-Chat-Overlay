@@ -1,3 +1,16 @@
+⚠️ A Very Important Caveat
+
+This project was created by someone with essentially zero formal coding knowledge, with heavy assistance from ChatGPT.
+
+I had a problem I wanted fixed, inspected how ChatGPT behaved in the browser, and then worked iteratively with ChatGPT to build, test, debug, and clean up this userscript.
+
+So, full disclosure:
+
+I am not a professional developer. I may not be able to explain every implementation detail or architectural decision. The code was developed through repeated testing, debugging, DOM inspection, and refinement with ChatGPT. If you spot something questionable, inefficient, or hilariously overengineered, please open an issue. I genuinely want to learn from it.
+
+What I can tell you is what problem the script solves, how it is supposed to behave, and that I tested the hell out of it before calling it 1.0. 😄
+
+
 # Kindroid Chat Overlay ✍️
 
 A lightweight userscript that gives **Kindroid's native chat composer more room to breathe**.
